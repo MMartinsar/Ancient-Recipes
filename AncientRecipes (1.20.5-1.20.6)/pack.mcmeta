@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "A datapack that adds new crafting recipes for uncraftable items (and some to give use to useless ones)!",
+        "pack_format": 71,
+        "supported_formats": {
+            "min_inclusive": 71,
+            "max_inclusive": 80
+        }
+    }
+}

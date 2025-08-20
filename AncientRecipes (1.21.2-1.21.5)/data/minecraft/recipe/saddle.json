@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "***",
+        "S S",
+        "# #"
+    ],
+    "key": {
+        "#": "minecraft:iron_ingot",
+        "*": "minecraft:leather",
+        "S": "minecraft:string"
+    },
+    "result": {
+        "id": "minecraft:saddle",
+        "count": 1
+    }
+}

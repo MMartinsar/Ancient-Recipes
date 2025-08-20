@@ -1,0 +1,1 @@
+tellraw @a {"text": "Ancient Recipes Datapack loaded successfully!", "color": "#FFFF55"}
