@@ -13,29 +13,37 @@ It works for every version since 1.14 to the newest although some crafting recip
 ## How to Install (Windows):
 
 Once downloaded, the correct version for the game must be selected.
+
 ![Installation1](/images/Installation1.png)
 
 Afterwards, you will need to access the "appdata" folder. This can be done by searching "%appdata%" on the Explorer found next to the Windows icon.
+
 ![Installation2](/images/Installation2.png)
 
 Next, you will need to access the folder named ".minecraft"...
+
 ![Installation3](/images/Installation3.png)
 
 ... then "saves"...
+
 ![Installation4](/images/Installation4.png)
 
 ... and then the desired world's folder.
+
 ![Installation5](/images/Installation5.png)
 
 Once inside the world's folder, the directory named "datapacks" must be accessed.
 
 The datapack must be copied inside this folder.
+
 ![Installation7](/images/Installation7.png)
 
 Once the datapack has been copied, you can now open Minecraft and enter in the world that has the datapack installed. Once loaded, the datapack should be working but to be 100% sure, you can introduce the command "/reload".
+
 ![Installation8](/images/Installation8.png)
 
 If the datapack is correctly loaded, a message in yellow should appear (the color can change through different datapacks).
+
 ![Installation9](/images/Installation9.png)
 
 
