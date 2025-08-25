@@ -1,4 +1,4 @@
-![AncientRecipes](/images/AncientRecipes.png)
+![Ancient_recipes](/images/AncientRecipes.png)
 
 ---
 
@@ -10,44 +10,44 @@ It works for every version since 1.13 to the newest although some crafting recip
 > As the datapack format changed from update to update, the datapack has been divided into different versions to adapt to this new rules or changes. Select the one that matches your desired minecraft version.
 
 
-## How to Install (Windows):
+![How_to_install](/images/HowToInstall.png)
 
 Once downloaded, the correct version for the game must be selected.
 
-![Installation1](/images/Installation1.png)
+![Installation_1](/images/Installation1.png)
 
 Afterwards, you will need to access the "appdata" folder. This can be done by searching "%appdata%" on the Explorer found next to the Windows icon.
 
-![Installation2](/images/Installation2.png)
+![Installation_2](/images/Installation2.png)
 
 Next, you will need to access the folder named ".minecraft"...
 
-![Installation3](/images/Installation3.png)
+![Installation_3](/images/Installation3.png)
 
 ... then "saves"...
 
-![Installation4](/images/Installation4.png)
+![Installation_4](/images/Installation4.png)
 
 ... and then the desired world's folder.
 
-![Installation5](/images/Installation5.png)
+![Installation_5](/images/Installation5.png)
 
 Once inside the world's folder, the directory named "datapacks" must be accessed.
 
 The datapack must be copied inside this folder.
 
-![Installation7](/images/Installation7.png)
+![Installation_7](/images/Installation7.png)
 
 Once the datapack has been copied, you can now open Minecraft and enter in the world that has the datapack installed. Once loaded, the datapack should be working but to be 100% sure, you can introduce the command "/reload".
 
-![Installation8](/images/Installation8.png)
+![Installation_8](/images/Installation8.png)
 
 If the datapack is correctly loaded, a message in yellow should appear (the color can change through different datapacks).
 
-![Installation9](/images/Installation9.png)
+![Installation_9](/images/Installation9.png)
 
 
-## Crafting Recipes:
+![Recipes](/images/Recipes.png)
 
 - **Leather (with rotten flesh):** </br>
 
@@ -58,6 +58,12 @@ If the datapack is correctly loaded, a message in yellow should appear (the colo
 - **Leather (with dried kelp):** </br>
 
 ![Leather_dried_kelp](/images/LeatherDried.png)
+
+---
+
+- **Glow Ink Sac:** </br>
+
+![Glow_ink_sac](/images/GlowInkSac.png)
 
 ---
 
@@ -82,6 +88,15 @@ If the datapack is correctly loaded, a message in yellow should appear (the colo
 - **Budding Amethyst:** </br>
 
 ![Budding_amethyst](/images/BuddingAmethyst.png)
+
+---
+
+- **Small Dripleaf:** </br>
+
+![Small_dripleaf](/images/SmallDripleaf.png)
+
+> [!Note]
+> Returns 2 small dripleafs.
 
 ---
 
@@ -126,7 +141,7 @@ Boots: </br>
 
 - **Cobweb:** </br>
 
-![Cobweb](/images/Cobweb.png) </br>
+![Cobweb](/images/Cobweb.png)
 
 > [!Note]
 > A bit of a Halloween fan myself so being able to easily have cobwebs in my survival world is cool :)
@@ -135,11 +150,41 @@ Boots: </br>
 
 - **String:** </br>
 
-![String](/images/String.png) </br>
+From Cobweb: </br>
+![String_from_cobweb](/images/StringFromCobweb.png)
+
+From Wool: </br>
+![String_from_wool](/images/StringFromWool.png)
 
 > [!Note]
 > Returns 5 strings, same amount as needed to craft one cobweb.
 
+---
+
+- **Nether Wart:** </br>
+
+![Nether_wart](/images/NetherWart.png)
+
+> [!Note]
+> Returns 9 nether warts.
+
+---
+
+- **Crimson Nylium:** </br>
+
+![Crimson_nylium](/images/CrimsonNylium.png)
+
+> [!Note]
+> Returns 8 crimson nylium blocks.
+
+---
+
+- **Warped Nylium:** </br>
+
+![Warped_nylium](/images/WarpedNylium.png)
+
+> [!Note]
+> Returns 8 warped nylium blocks.
 ---
 
 - **Brown Mushroom Block:** </br>
@@ -163,6 +208,39 @@ Boots: </br>
 - **Reinforced Deepslate:** </br>
 
 ![Reinforced_deepslate](/images/ReinforcedDeepslate.png)
+
+> [!Note]
+> Returns 4 reinforced deepslate blocks.
+
+---
+
+- **Flint:** </br>
+
+![Flint](/images/Flint.png)
+
+---
+
+- **Gravel:** </br>
+
+![Gravel](/images/Gravel.png)
+
+---
+
+- **Clay Ball:** </br>
+
+![Clay_ball](/images/ClayBall.png)
+
+> [!Note]
+> Returns 4 clay balls.
+
+---
+
+- **Terracotta:** </br>
+
+![Terracotta](/images/Terracotta.png)
+
+> [!Note]
+> Returns 4 terracotta blocks.
 
 ---
 
@@ -198,3 +276,9 @@ Boots: </br>
 - **Diamond Horse Armor:** </br>
 
 ![Diamond_horse](/images/DiamondHorse.png)
+
+---
+
+- **Totem Of Undying:** </br>
+
+![Totem_of_undying](/images/TotemOfUndying.png)

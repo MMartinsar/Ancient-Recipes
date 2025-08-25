@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#*#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherrack"
+        },
+        "*": {
+            "item": "minecraft:warped_wart_block"
+        }
+    },
+    "result": {
+        "id": "minecraft:warped_nylium",
+        "count": 8
+    }
+}

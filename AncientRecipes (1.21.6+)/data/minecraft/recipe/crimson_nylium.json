@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#*#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:netherrack",
+        "*": "minecraft:nether_wart_block"
+    },
+    "result": {
+        "id": "minecraft:crimson_nylium",
+        "count": 8
+    }
+}
