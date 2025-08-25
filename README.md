@@ -4,7 +4,7 @@
 
 This datapack adds new recipes for vanilla items that are not craftable in survival and some recipes to make useless items have some use. You can visit this datapack's page on [Planet Minecraft](https://www.planetminecraft.com/data-pack/craftable-uncraftables-by-macro225-1-20/) or [CurseForge](https://www.curseforge.com/minecraft/data-packs/ancient-recipes).
 
-It works for every version since 1.13 to the newest although some crafting recipes will not appear/work as they need items that in older versions don't exist.
+It works for every version since 1.14 to the newest although some crafting recipes will not appear/work as they need items that in older versions don't exist.
 
 > [!Warning]
 > As the datapack format changed from update to update, the datapack has been divided into different versions to adapt to this new rules or changes. Select the one that matches your desired minecraft version.
