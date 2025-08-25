@@ -153,11 +153,14 @@ Boots: </br>
 From Cobweb: </br>
 ![String_from_cobweb](/images/StringFromCobweb.png)
 
+> [!Note]
+> Returns 5 strings, same amount as needed to craft one cobweb.
+
 From Wool: </br>
 ![String_from_wool](/images/StringFromWool.png)
 
 > [!Note]
-> Returns 5 strings, same amount as needed to craft one cobweb.
+> Returns 4 strings.
 
 ---
 
