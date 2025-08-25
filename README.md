@@ -227,6 +227,9 @@ From Wool: </br>
 
 ![Gravel](/images/Gravel.png)
 
+> [!Note]
+> Returns 4 gravel blocks.
+
 ---
 
 - **Clay Ball:** </br>
